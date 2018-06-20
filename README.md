@@ -27,7 +27,8 @@ addChild(imgBoat);
 **Creator Starling 1.x**: yloquen - https://github.com/yloquen/WaveFilter AND https://github.com/yloquen/StarlingFilters
 
 ### Demo (Starling Extensions page):
-https://wiki.starling-framework.org/extensions/wave-filter
+  * https://wiki.starling-framework.org/extensions/wave-filter
 
 ### Other info:
-https://forum.starling-framework.org/topic/wave-filter
+  * https://forum.starling-framework.org/topic/wave-filter
+  * https://forum.starling-framework.org/topic/wave-filter-ported-from-starling-1x-to-2x	  
